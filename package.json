@@ -4,7 +4,7 @@
   "description": "Background generator for linear gradient backgrounds",
   "main": "script.js",
   "scripts": {
-    "build": "browserify script.js > bundle.js"
+    "build": "browserify script.js > bundle.js && live-server"
   },
   "repository": {
     "type": "git",
